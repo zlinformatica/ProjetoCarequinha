@@ -13,4 +13,12 @@
     <None Remove="Models\VideoLesson.cs\**" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Controllers\AboutController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Docs\" />
+  </ItemGroup>
+
 </Project>

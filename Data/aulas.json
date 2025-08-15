@@ -148,5 +148,25 @@
     "Id": 30,
     "Title": "ASP.NET #30 - Exercise 1 Add membership type to list of customers [By Mosh Hamedani]",
     "YouTubeId": "https://www.youtube.com/watch?v=zUcSfKnbCRc&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=30"
+  },
+  {
+    "Id": 31,
+    "Title": "ASP.NET #31 - Exercise 2 Add birthdate to customer [By Mosh Hamedani]",
+    "YouTubeId": "https://www.youtube.com/watch?v=PLkFoTxz_lE&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=31"
+  },
+  {
+    "Id": 32,
+    "Title": "ASP.NET #32 - Exercise 3 Display the list of movies and their details [By Mosh Hamedani]",
+    "YouTubeId": "https://www.youtube.com/watch?v=yu4eCAG4A9M&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=32"
+  },
+  {
+    "Id": 33,
+    "Title": "ASP.NET #33 - Summary [By Mosh Hamedani]",
+    "YouTubeId": "https://www.youtube.com/watch?v=wZoWP2gQZyE&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=33"
+  },
+  {
+    "Id": 34,
+    "Title": "ASP.NET #34 - Introduction [By Mosh Hamedani]",
+    "YouTubeId": "https://www.youtube.com/watch?v=kuwjwNR07jc&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=34"
   }
 ]
