@@ -8,9 +8,13 @@
 
   <ItemGroup>
     <Compile Remove="Models\VideoLesson.cs\**" />
+    <Compile Remove="Views\Home\NovaPasta\**" />
     <Content Remove="Models\VideoLesson.cs\**" />
+    <Content Remove="Views\Home\NovaPasta\**" />
     <EmbeddedResource Remove="Models\VideoLesson.cs\**" />
+    <EmbeddedResource Remove="Views\Home\NovaPasta\**" />
     <None Remove="Models\VideoLesson.cs\**" />
+    <None Remove="Views\Home\NovaPasta\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,7 +22,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Content Remove="Views\Home\Encerrar.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\Docs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Home\Encerrar.cshtml" />
   </ItemGroup>
 
 </Project>
