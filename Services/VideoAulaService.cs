@@ -18,15 +18,17 @@ namespace ProjetoCarequinha.Services
         public List<VideoAula> GetAll()
         {
             var json = File.ReadAllText(_jsonPath);
-            return JsonSerializer.Deserialize<List<VideoAula>>(json) ?? new List<VideoAula>();
+            var aulas = JsonSerializer.Deserialize<List<VideoAula>>(json) ?? new List<VideoAula>();
+
+            return aulas.OrderBy(a => a.Id).ToList(); // ordena sempre pelo Id crescente
         }
 
         public void SaveAll(List<VideoAula> aulas)
         {
-            var json = JsonSerializer.Serialize(aulas, new JsonSerializerOptions { WriteIndented = true });
+            var aula_class = aulas.OrderBy(a => a.Id).ToList();
+            var json = JsonSerializer.Serialize(aula_class, new JsonSerializerOptions { WriteIndented = true });
             File.WriteAllText(_jsonPath, json);
         }
-
         // Método para extrair o Index da URL
         private int GetIndexFromUrl(string url)
         {

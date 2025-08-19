@@ -2,31 +2,191 @@
   {
     "Id": 1,
     "Title": "ASP.NET #1 - Introduction [By Mosh Hamedani]",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=diSCIBSvPoo&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=1"
+    "YouTubeUrl": "https://www.youtube.com/watch?v=diSCIBSvPoo\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=1"
   },
   {
     "Id": 2,
     "Title": "ASP.NET #2 - MVC Architectural Pattern [By Mosh Hamedani]",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=FYtvV8k2BTs&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=2"
+    "YouTubeUrl": "https://www.youtube.com/watch?v=FYtvV8k2BTs\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=2"
   },
   {
     "Id": 3,
     "Title": "ASP.NET #3 - Setting Up the Development Environment [By Mosh Hamedani]",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=lsSE8qD1yCk&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=3"
+    "YouTubeUrl": "https://www.youtube.com/watch?v=lsSE8qD1yCk\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=3"
+  },
+  {
+    "Id": 4,
+    "Title": "ASP.NET #4 - Your First ASP NET MVC App [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=fnjlw6t6BsM\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=4"
+  },
+  {
+    "Id": 5,
+    "Title": "ASP.NET #5 - MVC in Action [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=hNNawUoQtUo\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=5"
+  },
+  {
+    "Id": 6,
+    "Title": "ASP.NET #6 - Adding a Theme [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Z3IsRwGpx1Y\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=6"
+  },
+  {
+    "Id": 7,
+    "Title": "ASP.NET #7 - Course Layout (read desc) [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=UAYFHybxru0\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=7"
+  },
+  {
+    "Id": 8,
+    "Title": "ASP.NET #8 - Introduction [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=t11isWTuI8w\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=8"
+  },
+  {
+    "Id": 9,
+    "Title": "ASP.NET #9 - Action Results [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=RdO_u07QANI\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=9"
+  },
+  {
+    "Id": 10,
+    "Title": "ASP.NET #10 - Action Parameters [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=nlzgLLeOfZ0\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=10"
+  },
+  {
+    "Id": 11,
+    "Title": "ASP.NET #11 - Convention based Routing [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=-NwUAm1rOqo\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=11"
+  },
+  {
+    "Id": 12,
+    "Title": "ASP.NET #12 - Attribute Routing [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=2VpR9iF9GFs\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=12"
+  },
+  {
+    "Id": 13,
+    "Title": "ASP.NET #13 - Passing Data to Views [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=L3ci-GRWQd0\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=13"
+  },
+  {
+    "Id": 14,
+    "Title": "ASP.NET #14 - View Models [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=1zgA0HofMrA\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=14"
+  },
+  {
+    "Id": 15,
+    "Title": "ASP.NET #15 - Razor Syntax [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Ll0x6H7IeTs\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=15"
+  },
+  {
+    "Id": 16,
+    "Title": "ASP.NET #16 - Partial Views (read desc) [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=TlWYPFJNUyg\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=16"
+  },
+  {
+    "Id": 17,
+    "Title": "ASP.NET #17 - Exercise (read desc) [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=PnJlzV84UqA\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=17"
+  },
+  {
+    "Id": 18,
+    "Title": "ASP.NET #18 - Solution [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=uhgMgzXn7aw\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=18"
+  },
+  {
+    "Id": 19,
+    "Title": "ASP.NET #19 - Summary [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=vHfrnqlbmzg\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=19"
+  },
+  {
+    "Id": 20,
+    "Title": "ASP.NET #20 - Introduction [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=j-JpI4QcQh4\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=20"
+  },
+  {
+    "Id": 21,
+    "Title": "ASP.NET #21 - Entity Framework [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=CukGP7UWqSc\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=21"
+  },
+  {
+    "Id": 22,
+    "Title": "ASP.NET #22 - Database first vs Code first [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=b9Uu5F8Zmvc\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=22"
+  },
+  {
+    "Id": 23,
+    "Title": "ASP.NET #23 - Code first Migrations [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=qyBYqzdsL5A\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=23"
+  },
+  {
+    "Id": 24,
+    "Title": "ASP.NET #24 - Changing the Model [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=uZPT5Q1hXjg\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=24"
+  },
+  {
+    "Id": 25,
+    "Title": "ASP.NET #25 - Seeding the Database [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=Wm4hE4n_Lm0\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=25"
+  },
+  {
+    "Id": 26,
+    "Title": "ASP.NET #26 - Overriding Conventions [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=w2YMTPELn00\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=26"
+  },
+  {
+    "Id": 27,
+    "Title": "ASP.NET #27 - Querying Objects [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=d3n6cl1rU2c\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=27"
+  },
+  {
+    "Id": 28,
+    "Title": "ASP.NET #28 - Eager Loading [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=QicGjHEB4B8\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=28"
+  },
+  {
+    "Id": 29,
+    "Title": "ASP.NET #29 - Shortcut to Package Manager Console (read desc) [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=SrWemf6jt5M\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=29"
+  },
+  {
+    "Id": 30,
+    "Title": "ASP.NET #30 - Exercise 1 Add membership type to list of customers [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=zUcSfKnbCRc\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=30"
+  },
+  {
+    "Id": 31,
+    "Title": "ASP.NET #31 - Exercise 2 Add birthdate to customer [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=PLkFoTxz_lE\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=31"
   },
   {
     "Id": 32,
     "Title": "ASP.NET #32 - Exercise 3 Display the list of movies and their details [By Mosh Hamedani]",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=yu4eCAG4A9M&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=32"
+    "YouTubeUrl": "https://www.youtube.com/watch?v=yu4eCAG4A9M\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=32"
   },
   {
     "Id": 33,
     "Title": "ASP.NET #33 - Summary [By Mosh Hamedani]",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=wZoWP2gQZyE&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=33"
+    "YouTubeUrl": "https://www.youtube.com/watch?v=wZoWP2gQZyE\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=33"
   },
   {
     "Id": 34,
-    "Title": "ASP.NET #34 - Introduction [By Mosh Hamedani]",
-    "YouTubeUrl": "https://www.youtube.com/watch?v=kuwjwNR07jc&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=34"
+    "Title": "ASP.NET #34 - Introduction [By Mosh Hamedani] ",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=kuwjwNR07jc\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=34"
+  },
+  {
+    "Id": 35,
+    "Title": "ASP.NET #35 - The Markup [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=qmsC_ITC_5w\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=35"
+  },
+  {
+    "Id": 36,
+    "Title": "ASP.NET #36 - Labels [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=6BYrI8GA-hU\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=36"
+  },
+  {
+    "Id": 37,
+    "Title": "ASP.NET #37 - Drop down Lists [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=1-9-wfai19U\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=37"
+  },
+  {
+    "Id": 38,
+    "Title": "ASP.NET #38 - Model Binding [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=9irQVuHxmOs\u0026list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr\u0026index=38"
   }
 ]

@@ -20,7 +20,7 @@ namespace ProjetoCarequinha.Services
         {
             if (!_cache.TryGetValue(CacheKey, out List<VideoAula> aulas))
             {
-                var filePath = Path.Combine(_env.ContentRootPath, "Data", "aulas.json");
+                var filePath = Path.Combine(_env.WebRootPath, "Data", "aulas.json");
                 var json = File.ReadAllText(filePath);
                 aulas = JsonSerializer.Deserialize<List<VideoAula>>(json) ?? new List<VideoAula>();
 
