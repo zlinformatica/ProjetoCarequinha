@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Title": "ASP.NET #1 - Introduction [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=diSCIBSvPoo&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=1"
+  },
+  {
+    "Id": 2,
+    "Title": "ASP.NET #2 - MVC Architectural Pattern [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=FYtvV8k2BTs&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=2"
+  },
+  {
+    "Id": 3,
+    "Title": "ASP.NET #3 - Setting Up the Development Environment [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=lsSE8qD1yCk&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=3"
+  },
+  {
+    "Id": 32,
+    "Title": "ASP.NET #32 - Exercise 3 Display the list of movies and their details [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=yu4eCAG4A9M&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=32"
+  },
+  {
+    "Id": 33,
+    "Title": "ASP.NET #33 - Summary [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=wZoWP2gQZyE&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=33"
+  },
+  {
+    "Id": 34,
+    "Title": "ASP.NET #34 - Introduction [By Mosh Hamedani]",
+    "YouTubeUrl": "https://www.youtube.com/watch?v=kuwjwNR07jc&list=PLOghUv2IDLKEVhfuIJQnl3HxeXwtRvmsr&index=34"
+  }
+]

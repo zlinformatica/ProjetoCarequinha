@@ -1,0 +1,28 @@
+﻿@model ProjetoCarequinha.Models.VideoAula
+
+@{
+    ViewData["Title"] = "Editar Aula";
+}
+
+<div class="container mt-4">
+    <h2>✏️ Editar Aula</h2>
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+
+        <div class="mb-3">
+            <label asp-for="Title" class="form-label">Título</label>
+            <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="YouTubeUrl" class="form-label">Link</label>
+            <input asp-for="YouTubeUrl" class="form-control" />
+            <span asp-validation-for="YouTubeUrl" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Salvar Alterações</button>
+        <a asp-action="Index" class="btn btn-secondary">Voltar</a>
+    </form>
+</div>

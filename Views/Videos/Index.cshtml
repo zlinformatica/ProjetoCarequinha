@@ -9,6 +9,13 @@
 <div class="container mt-4">
     <h1 class="text-center mb-4">📚 Curso ASP.NET | Mvc/C# - Mosh Hamedani</h1>
 
+    <!-- 🔹 Botão sempre visível para acessar o CRUD -->
+    <div class="mb-3 text-end">
+        <a class="btn btn-dark" asp-controller="VideoAulaAdmin" asp-action="Index">
+            ⚙️ Área Administrativa
+        </a>
+    </div>
+
     <form method="get" class="mb-3 row g-2">
         <div class="col-md-8">
             <input type="text" name="search" class="form-control" placeholder="Pesquisar por número ou título" value="@search" />
@@ -39,7 +46,7 @@
     @if (Model != null)
     {
         <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/@Model.YouTubeId" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/@Model.YouTubeUrl" allowfullscreen></iframe>
         </div>
         <h3 class="mt-3">@Model.Title</h3>
     }

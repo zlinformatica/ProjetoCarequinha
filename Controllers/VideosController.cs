@@ -1,15 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 using ProjetoCarequinha.Services;
 using ProjetoCarequinha.Models;
-
 public class VideosController : Controller
 {
     private readonly VideoService _videoService;
 
-    public VideosController(VideoService videoService)
-    {
-        _videoService = videoService;
-    }
+    public VideosController(VideoService videoService) => _videoService = videoService;
 
     [HttpGet]
     public IActionResult Index([FromQuery] int? id, [FromQuery] string? search)
@@ -45,4 +41,5 @@ public class VideosController : Controller
 
         return View(selecionada);
     }
+
 }

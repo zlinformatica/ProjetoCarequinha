@@ -1,0 +1,30 @@
+@model List<ProjetoCarequinha.Models.VideoAula>
+
+<div class="container mt-4">
+    <h2>Gerenciar Aulas (Somente Admin)</h2>
+    <a class="btn btn-success mb-3" asp-action="Create">➕ Nova Aula</a>
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Título</th>
+                <th>Link</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var aula in Model)
+        {
+            <tr>
+                <td>@aula.Id</td>
+                <td>@aula.Title</td>
+                <td><a href="@aula.YouTubeUrl" target="_blank">Abrir</a></td>
+                <td>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@aula.Id">Editar</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@aula.Id">Excluir</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
